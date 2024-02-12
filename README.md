@@ -20,3 +20,7 @@ Clicking on one of the files will open up the file in another page, which includ
 
 Github File Manager  
 ![File Manger](filemanager.png)
+The file manager allows you to see and access all of the files in your repo.  You can also edit all the text files using the pencil icon.  Note that you can also try to edit images, but you will get a message saying that you can not edit a binary file.  As part of today's assignment, we will be creating and editing a file using the github file manager.  At this time, take the opportunity to browse the files and see what is in them.
+
+## Github Markdown Language
+All of these files are text files, and you may have noticed that 
