@@ -67,3 +67,5 @@ Now you will be adding your own file to your repo.  Look for the "+" sign near t
 
 ### EXTENSIONS
 Do you use Discord?  Discord (and many similar social media apps) have their own markdown (sometimes called markup) languages that help you format your text. Visit [this page](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline) for more information about Discord Markup
+
+Pick a social media or other messaging/emdia platform that you use (or maybe one that you don't use if you can't find one) and see if it supports Markup Language. Complete the Google Doc attached to your Google Classroom assignment.
