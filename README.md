@@ -65,5 +65,5 @@ Now you will be adding your own file to your repo.  Look for the "+" sign near t
 
 #### When you are finished, find the full URL of your repo and submit it as your assignment.
 
-### Additional Considerations
+### EXTENSIONS
 Do you use Discord?  Discord (and many similar social media apps) have their own markdown (sometimes called markup) languages that help you format your text. Visit [this page](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline) for more information about Discord Markup
